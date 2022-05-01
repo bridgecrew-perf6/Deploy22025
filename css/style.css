@@ -1,0 +1,50 @@
+.card-img-overlay{
+    text-align: right
+}
+
+
+.btn-outline-dark{
+    border: solid white;
+    color: white;
+}
+
+
+.card-group{margin-top: 20px;
+}
+
+.div-der{
+        background-image: url(../img/honolulu.jpg);
+        background-image: center;
+        background-image: cover;
+        height: 100vh;
+        width: 50%;
+}
+
+.div-izq{
+    background-color: rgb(81, 81, 81);
+    height: 100vh;
+    width: 50%;
+}
+
+.btn-outline-secondary {
+    border: solid white;
+    color: white;
+}
+
+.form-btn{
+    background-color: rgb(146, 209, 36);
+    width: 100%;
+}
+
+.row{
+    color: white;
+}
+
+.justify-content-center{
+
+    background-color:darkblue;
+}
+
+.nav-link{
+    color: white;
+}
